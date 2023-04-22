@@ -1,7 +1,7 @@
 # TheUltimateSoundPack TL:DR
   Cool sounds, loops, FST patcher instruments, and a giant drum kit for you to use in your musical Productions in FL:Studio.
 
-#Some Notes
+# Some Notes
   It is advised to download the repository with github desktop or cmd prompt so updates are easily downloadable.
   Here's a rundown of what this repository is:
   Sounds free to use in music productions created by the contributers who upload to this repo.
