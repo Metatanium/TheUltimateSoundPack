@@ -13,3 +13,6 @@
   Finally, a thanks to everyone who ends up contributing.
 
   Metatanium
+
+# More notes
+  If you uplaod your own sounds it should be in good faith. Like you have the rights to original samples, you're not gonna copyright strike someone for using it. Should   be in good faith basically, you'd be allowing everyone to use your sounds.
